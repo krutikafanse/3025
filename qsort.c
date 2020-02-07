@@ -14,7 +14,7 @@ int compar(void*pa,void*pb)
 }
 int main(void)
 {
-	int myarr[]= {2,23,298,110.1190,38,400,20,2};
+	int myarr[]= {2,23,298,110.1190,38,400,221,2};
 	size_t L= sizeof(myarr)/sizeof(int);
 printf("unsorted array is\n");
 	for(int i=0;i<L;i++)
